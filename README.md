@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @hyunsuk-ko
 - 👀 "Don't close yourself off from new things."
+- ✨ "Learning always comes from discomfort."
 - 🌱 I’m currently majoring Data Science in University of Wisconsin-Madison.
 - 📫 How to reach me: perennial247@gmail.com 
 
