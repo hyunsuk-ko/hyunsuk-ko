@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hyunsuk-ko
 - 👀 "Don't close yourself off from new things."
 - ✨ "Learning always comes from discomfort."
-- 🌱 I did my B.A. in Data Science at the University of Wisconsin-Madison and M.S. in Data Scinece at the University of Wisconsin-Madison
+- 🌱 I did my B.A. in Data Science at the University of Wisconsin-Madison and M.S. in Data Scinece at the University of Virginia.
 - 📫 How to reach me: hyunko954@gmail.com
 - My primary area of interest lies in Natural Language Processing and integration of NLP with Computer Vision.
 
